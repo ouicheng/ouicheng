@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#  你好，我是 [ouyicheng]
+## 关于我
+专业：[计算机工程]
+学习目标：[学习Web开发、软件工程等]
+## 兴趣爱好：[编程、阅读、运动等] 
+邮箱：[ouyicheng999@gmail.com]
+ 
